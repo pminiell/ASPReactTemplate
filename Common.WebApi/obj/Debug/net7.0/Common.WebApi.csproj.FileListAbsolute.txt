@@ -61,3 +61,9 @@ C:\Users\minie\Documents\Coding\dotnet\ReactASPYarp\Common.WebApi\obj\Debug\net7
 C:\Users\minie\Documents\Coding\dotnet\ReactASPYarp\Common.WebApi\obj\Debug\net7.0\Common.WebApi.pdb
 C:\Users\minie\Documents\Coding\dotnet\ReactASPYarp\Common.WebApi\obj\Debug\net7.0\Common.WebApi.genruntimeconfig.cache
 C:\Users\minie\Documents\Coding\dotnet\ReactASPYarp\Common.WebApi\obj\Debug\net7.0\ref\Common.WebApi.dll
+C:\Users\minie\Documents\Coding\dotnet\ReactASPYarp\Common.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\minie\Documents\Coding\dotnet\ReactASPYarp\Common.WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\minie\Documents\Coding\dotnet\ReactASPYarp\Common.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\minie\Documents\Coding\dotnet\ReactASPYarp\Common.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\minie\Documents\Coding\dotnet\ReactASPYarp\Common.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\minie\Documents\Coding\dotnet\ReactASPYarp\Common.WebApi\obj\Debug\net7.0\Common.WebApi.MvcApplicationPartsAssemblyInfo.cs
