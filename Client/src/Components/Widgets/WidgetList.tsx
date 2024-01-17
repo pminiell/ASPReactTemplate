@@ -6,7 +6,7 @@ const WidgetList: React.FC = () => {
   const { isPending, isError, error, data } = useQuery<Widget[]>({
     queryKey: ["widget"],
     queryFn: () =>
-      fetch("http://localhost:5194/api/widget").then((res) => res.json()),
+      fetch(import.meta.env.VITE_API_ENDPOINT).then((res) => res.json()),
   });
 
   if (isPending) return <div>Loading...</div>;
