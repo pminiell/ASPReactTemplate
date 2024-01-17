@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/pminiell/Documents/Coding/Dotnet/ASPReactTemplate/Server/Common.EntityModels.Sqlite/Common.EntityModels.Sqlite.csproj": {}
+  },
+  "projects": {
+    "/home/pminiell/Documents/Coding/Dotnet/ASPReactTemplate/Server/Common.EntityModels.Sqlite/Common.EntityModels.Sqlite.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/pminiell/Documents/Coding/Dotnet/ASPReactTemplate/Server/Common.EntityModels.Sqlite/Common.EntityModels.Sqlite.csproj",
+        "projectName": "Common.EntityModels.Sqlite",
+        "projectPath": "/home/pminiell/Documents/Coding/Dotnet/ASPReactTemplate/Server/Common.EntityModels.Sqlite/Common.EntityModels.Sqlite.csproj",
+        "packagesPath": "/home/pminiell/.nuget/packages/",
+        "outputPath": "/home/pminiell/Documents/Coding/Dotnet/ASPReactTemplate/Server/Common.EntityModels.Sqlite/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/pminiell/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.115/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
